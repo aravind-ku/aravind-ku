@@ -10,9 +10,8 @@
 <a href="https://www.linkedin.com/in/vutaaravind16/">
   <img src="https://github.com/aravind-ku/aravind-ku/blob/main/images/linkedin.PNG" alt="LinkedIn" width="245" height="90"/>
 </a>
-&nbsp;
 <a href="https://www.instagram.com/aravind_vuta">
-  <img src="https://github.com/aravind-ku/aravind-ku/blob/main/images/Insta.PNG" alt="Instagram" width="190" height="55"/>
+  <img src="https://github.com/aravind-ku/aravind-ku/blob/main/images/Insta.PNG" alt="Instagram" width="185" height="55"/>
 </a>
 <br><br>
 
