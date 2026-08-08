@@ -24,7 +24,7 @@
 ---
 
 <div align="center">
-  <img width="100%" src="https://github.com/aravind-ku/aravind-ku/blob/main/Devops%20Banner.PNG" alt="DevOps Banner" />
+  <img width="100%" src="https://github.com/aravind-ku/aravind-ku/blob/main/Devops%20Banner.png" alt="DevOps Banner" />
 </div>
 
 ---
