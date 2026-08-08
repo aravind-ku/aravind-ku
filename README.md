@@ -6,7 +6,8 @@
 
 
 <a href="https://github.com/aravind-ku">
-  <img src="https://img.shields.io/github/followers/jaiswaladi246?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/followers/jaiswaladi246?style=for-the-badge&logo=github&label=Followers" width="200"
+    height="55" alt="GitHub followers" />
 <a href="https://www.linkedin.com/in/vutaaravind16/">
   <img
     src="https://github.com/aravind-ku/aravind-ku/blob/main/images/Linkedin.png"
@@ -70,7 +71,7 @@ I am a passionate **DevOps and Cloud Engineer from India** with over **4 years o
   <img src="https://img.shields.io/badge/AI%20for%20DevOps-7B61FF?style=flat-square" alt="AI for DevOps" />
 </p>
 
-- 👨‍💻 Projects: [github.com/jaiswaladi246](https://github.com/aravind-ku)
+- 👨‍💻 Projects: [https://github.com/aravind-ku](https://github.com/aravind-ku)
 - 💬 Ask me about **DevOps, DevSecOps, AWS, Azure, Kubernetes and CI/CD**
 - 📧 Email: [aravindaims16@gmail.com]
 
