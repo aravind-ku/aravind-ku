@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/github/followers/jaiswaladi246?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
 </a>
 <a href="https://www.linkedin.com/in/vutaaravind16/">
-  <img src="https://github.com/aravind-ku/aravind-ku/blob/main/images/Linkedin.png" alt="LinkedIn" />
+  <img src="https://github.com/aravind-ku/aravind-ku/blob/main/images/Linkedin.png?style=for-the-badge&logo=github&label=Followers" alt="LinkedIn" />
 </a>
 <a href="https://www.instagram.com/aravind_vuta">
   <img src="https://github.com/aravind-ku/aravind-ku/blob/main/images/Insta.PNG" alt="Instagram" />
