@@ -116,9 +116,8 @@ At **DevOps**, content about:
 ## `$ github --profile-summary`
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/jaiswaladi246?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
   <img src="https://img.shields.io/github/last-commit/jaiswaladi246/jaiswaladi246?style=for-the-badge&logo=github&label=Profile%20Updated" alt="Profile repository last commit" />
-  <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <img src="https://github.com/aravind-ku/aravind-ku/blob/main/images/Prifile.PNG" alt="Profile views" />
 </p>
 
 ---
@@ -139,11 +138,6 @@ At **DevOps**, content about:
 ## `$ connect --with-me`
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vutaaravind16/">
-    <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Jaiswal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-   <a href="https://www.instagram.com/aravind_vuta/">
-    <img src="https://img.shields.io/badge/Instagram-DevOps%20Shack-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
   <a href="mailto:aravindaims16@gmail.com">
     <img src="https://img.shields.io/badge/Email-office%40devopsshack.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
