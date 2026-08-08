@@ -12,7 +12,7 @@
     src="https://github.com/aravind-ku/aravind-ku/blob/main/images/Linkedin.png"
     alt="LinkedIn"
     width="200"
-    height="60"
+    height="55"
   />
 </a>
 &nbsp;
@@ -20,8 +20,8 @@
   <img
     src="https://github.com/aravind-ku/aravind-ku/blob/main/images/Insta.PNG"
     alt="Instagram"
-    width="120"
-    height="28"
+    width="200"
+    height="55"
   />
 </a>
 
