@@ -42,8 +42,10 @@
 ## 👨‍💻 About Me
 
 <p>
-  <img src="https://github.com/aravind-ku/aravind-ku/blob/main/images/Name.PNG" alt="Name: Aravind Vuta" />
-  <img src="https://github.com/aravind-ku/aravind-ku/blob/main/images/Exp.PNG" alt="Experience: 4+ Years" />
+  <img src="https://github.com/aravind-ku/aravind-ku/blob/main/images/Name.PNG" width="200"
+    height="55" alt="Name: Aravind Vuta" />
+  <img src="https://github.com/aravind-ku/aravind-ku/blob/main/images/Exp.PNG" width="200"
+    height="55" alt="Experience: 4+ Years" />
   <img src="https://img.shields.io/badge/Location-India-ff9933?style=for-the-badge" alt="Location: India" />
 </p>
 
