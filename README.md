@@ -11,7 +11,7 @@
   <img
     src="https://github.com/aravind-ku/aravind-ku/blob/main/images/linkedin.PNG"
     alt="LinkedIn"
-    width="200"
+    width="250"
     height="85"
   />
 </a>
