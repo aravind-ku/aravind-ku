@@ -139,7 +139,7 @@ At **DevOps**, content about:
 
 <p align="center">
   <a href="mailto:aravindaims16@gmail.com">
-    <img src="https://github.com/aravind-ku/aravind-ku/blob/main/images/Email.PNG" alt="Email" />
+    <img src="https://github.com/aravind-ku/aravind-ku/blob/main/images/Email.PNG" alt="Email" width="245" height="90"/>
   </a>
 </p>
 
