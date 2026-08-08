@@ -12,7 +12,7 @@
     src="https://github.com/aravind-ku/aravind-ku/blob/main/images/linkedin.PNG"
     alt="LinkedIn"
     width="200"
-    height="55"
+    height="65"
   />
 </a>
 &nbsp;
