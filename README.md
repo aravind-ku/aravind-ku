@@ -9,15 +9,15 @@
   <img src="https://img.shields.io/github/followers/jaiswaladi246?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
 </a>
 <a href="https://www.linkedin.com/in/vutaaravind16/">
-  <img src="https://gemini.google.com/app/6169683c0d44ee63" alt="LinkedIn" />
+  <img src="https://github.com/aravind-ku/aravind-ku/blob/main/images/Linkedin.png" alt="LinkedIn" />
 </a>
 <a href="https://www.instagram.com/aravind_vuta">
-  <img src="https://img.shields.io/badge/Instagram-DevOpsShack-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <img src="https://github.com/aravind-ku/aravind-ku/blob/main/images/Insta.PNG" alt="Instagram" />
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+<img src="https://github.com/aravind-ku/aravind-ku/blob/main/images/Prifile.PNG" alt="Profile views" />
 
 </div>
 
@@ -32,14 +32,14 @@
 ## 👨‍💻 About Me
 
 <p>
-  <img src="https://img.shields.io/badge/Name-Aditya%20Jaiswal-1f6feb?style=for-the-badge" alt="Name: Aravind Vuta" />
-  <img src="https://img.shields.io/badge/Experience-7%2B%20Years-2ea44f?style=for-the-badge" alt="Experience: 4+ Years" />
+  <img src="https://github.com/aravind-ku/aravind-ku/blob/main/images/Name.PNG" alt="Name: Aravind Vuta" />
+  <img src="https://github.com/aravind-ku/aravind-ku/blob/main/images/Exp.PNG" alt="Experience: 4+ Years" />
   <img src="https://img.shields.io/badge/Location-India-ff9933?style=for-the-badge" alt="Location: India" />
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/Role-DevOps%20%26%20Cloud%20Engineer-6f42c1?style=for-the-badge" alt="Role: DevOps and Cloud Engineer" />
-  <img src="https://img.shields.io/badge/Brand-DevOps%20Shack-e4405f?style=for-the-badge" alt="Brand: DevOps" />
+  <img src="https://github.com/aravind-ku/aravind-ku/blob/main/images/Prifile.PNG" alt="Brand: DevOps" />
 </p>
 
 I am a passionate **DevOps and Cloud Engineer from India** with over **4 years of experience** in cloud infrastructure, automation, CI/CD, DevSecOps and modern software delivery.
