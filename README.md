@@ -139,7 +139,7 @@ At **DevOps**, content about:
 
 <p align="center">
   <a href="mailto:aravindaims16@gmail.com">
-    <img src="https://img.shields.io/badge/Email-office%40devopsshack.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://github.com/aravind-ku/aravind-ku/blob/main/images/Email.PNG" alt="Email" />
   </a>
 </p>
 
